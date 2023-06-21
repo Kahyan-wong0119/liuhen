@@ -18,12 +18,12 @@ body{
 h1{
     font-family: 'hanyi';
     text-align: center;
-    color: #DDE6ED;
+    color: black;
 }
 
 article{
     font-family: 'hanyi';
-    color: #DDE6ED;
+    color: black;
     line-height: 1.5;
     font-size: 20px;
     margin-left: 5px;
@@ -32,13 +32,13 @@ article{
 .head{
     font-family: 'rainbow','hanyi';
     float: left;
-    color: #DDE6ED;
+    color: black;
     font-size: 20px;
 }
 .p1{
     font-family: 'rainbow','hanyi';
     float: right;
-    color: #DDE6ED;
+    color: black;
     font-size: 20px;
 }
 
@@ -50,7 +50,7 @@ img{
 
 p{
     font-family: 'rainbow','hanyi';
-    color: #DDE6ED;
+    color: black;
     font-size: 30px;
     text-align: center;
 }
